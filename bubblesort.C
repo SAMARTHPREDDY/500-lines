@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Function to perform Bubble Sort
+// Function to perform Bubble Sort//
 void bubbleSort(int arr[], int n) {
     for (int i = 0; i < n - 1; i++) {
         // Last i elements are already sorted
